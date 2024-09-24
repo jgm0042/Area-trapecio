@@ -1,0 +1,8 @@
+1 inicio
+2 Edad=0
+3 "Introduce tu edad"
+4 Leer edad
+5 Si *edad=>18
+6 " Eres mayor de edad
+8 Si no "No puedes continuar en este programa"
+7 Fin
